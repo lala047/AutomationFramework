@@ -1,0 +1,5 @@
+Push our code in to the git repo
+
+Jenkins - Git repo
+
+jenkins - Pom.xml - Testng.xml -- Scripting - Main Method - Page ObjectModel
