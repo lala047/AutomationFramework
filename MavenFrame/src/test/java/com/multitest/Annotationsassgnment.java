@@ -3,14 +3,8 @@ package com.multitest;
 import java.util.List;
 
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.Select;
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeClass;
-import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 
@@ -75,11 +69,4 @@ public class Annotationsassgnment extends SetUp {
 	}
 	
 		}
-	//@AfterClass
-
-	}
-
-//@BeforeClass- Opens the browser and runs the first method and then open the 2nd method 
-//@BeforeMethod- runs before each test method
-//@AfterClass- closes the browser after all the methods have run
-//@AfterMethod- runs after each test method
+}
